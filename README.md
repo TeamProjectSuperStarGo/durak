@@ -7,11 +7,17 @@ Completed
 ========================
 
     Deck Created
+    
     Player Hands Created
+    
     Shuffle Implemented
+    
     Card Comparison Function Implemented (Beats by Dre Function)
+    
     First Attack Round
+    
     First Defense Round
+    
 
 Additional Discoveries
 ========================
