@@ -1,0 +1,4 @@
+durak
+=====
+
+Durak
